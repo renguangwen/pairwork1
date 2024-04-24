@@ -1,0 +1,13 @@
+﻿  源.cpp
+C:\Users\renguangwen\source\repos\一元多项式算术运算\一元多项式算术运算\源.cpp(37,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\renguangwen\source\repos\一元多项式算术运算\一元多项式算术运算\源.cpp(46,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\renguangwen\source\repos\一元多项式算术运算\一元多项式算术运算\源.cpp(56,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\renguangwen\source\repos\一元多项式算术运算\一元多项式算术运算\源.cpp(56,34): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\renguangwen\source\repos\一元多项式算术运算\一元多项式算术运算\源.cpp(73,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\renguangwen\source\repos\一元多项式算术运算\一元多项式算术运算\源.cpp(77,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\renguangwen\source\repos\一元多项式算术运算\一元多项式算术运算\源.cpp(107,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\renguangwen\source\repos\一元多项式算术运算\一元多项式算术运算\源.cpp(107,34): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\renguangwen\source\repos\一元多项式算术运算\一元多项式算术运算\源.cpp(127,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\renguangwen\source\repos\一元多项式算术运算\一元多项式算术运算\源.cpp(131,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\renguangwen\source\repos\一元多项式算术运算\一元多项式算术运算\源.cpp(162,23): warning C4018: “<”: 有符号/无符号不匹配
+  一元多项式算术运算.vcxproj -> C:\Users\renguangwen\source\repos\一元多项式算术运算\Debug\一元多项式算术运算.exe
